@@ -5,6 +5,6 @@
  */
 class HelloJava {
 	public afficherCancan(){
-
+return  afficherCancan(){
 	}
 }
